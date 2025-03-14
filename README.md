@@ -12,8 +12,8 @@ Example application for real-time fraud detection.
 1. Setup this repository locally
 
 ```bash
-git clone https://github.com/tinybirdco/fraud-detection-demo.git
-cd fraud-detection-demo
+git clone https://github.com/XNL-21BCE10133-DE-3.git
+cd XNL-21BCE10133-DE-3
 ```
 
 2. Install dependencies
@@ -58,6 +58,8 @@ ETL Pipelines & Feature Engineering:
 Implement a real-time ETL pipeline using Apache Flink or Spark Streaming.
 Perform feature extraction on transaction patterns, user behavior, geolocation, and device metadata.
 Store processed data in Amazon S3, Google Cloud Storage, or HDFS.
+
+
 📌 PART 2: MACHINE LEARNING-BASED FRAUD DETECTION
 🔥 Mandatory Requirements:
 Model Selection & Training:
@@ -72,6 +74,8 @@ Model Explainability & Fairness:
 
 Implement SHAP or LIME for explainability.
 Detect and mitigate bias in fraud detection models.
+
+
 📌 PART 3: AUTOMATED FRAUD PREVENTION & ALERTING
 🔥 Mandatory Requirements:
 Real-Time Fraud Prevention System:
@@ -86,6 +90,8 @@ User Verification & Identity Protection:
 
 Integrate Multi-Factor Authentication (MFA) & biometric verification.
 Detect location-based anomalies (e.g., login from two different continents within minutes).
+
+
 📌 PART 4: DATA STORAGE, GOVERNANCE & SECURITY
 🔥 Mandatory Requirements:
 Scalable Storage:
@@ -97,6 +103,8 @@ Data Security & Compliance:
 Ensure GDPR & PCI-DSS compliance.
 Encrypt all sensitive data using AES-256.
 Implement role-based access control (RBAC) and audit logs.
+
+
 📌 PART 5: VISUALIZATION & DASHBOARDS
 🔥 Mandatory Requirements:
 Fraud Analytics Dashboard:
@@ -108,6 +116,8 @@ Interactive Reports & Visualization:
 
 Integrate Apache Superset, Metabase, or Power BI for data analysis.
 Provide fraud detection accuracy metrics & model performance tracking.
+
+
 📌 PART 6: CI/CD, TESTING & DEPLOYMENT
 🔥 Mandatory Requirements:
 Automated Testing & Model Validation:
