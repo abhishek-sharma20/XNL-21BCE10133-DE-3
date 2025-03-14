@@ -132,5 +132,8 @@ CI/CD Pipeline & Cloud Deployment:
 
 Automate deployments using GitHub Actions, Jenkins, or GitLab CI/CD.
 Deploy using Docker, Kubernetes (EKS/GKE), and Terraform.
+
+
+
 #21BCE10133
 Abhishek Sharma
