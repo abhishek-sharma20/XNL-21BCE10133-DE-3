@@ -1,0 +1,15 @@
+{
+    "name": "fraud-detection",
+    "version": "1.0.0",
+    "description": "Demo showcasing how to detect fraudulent transactions in real-time.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "--datasource=transactions --token=[PASTE_YOUR_ADMIN_TOKEN_HERE] --endpoint=eu_gcp --schema='schema.json' --eps 100"
+    },
+    "author": "21BCE10133",
+    "license": "ISC",
+    "dependencies": {
+        "@abhishek": "^1.1.0"
+    }
+}
